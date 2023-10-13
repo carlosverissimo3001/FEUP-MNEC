@@ -2,6 +2,8 @@
 
 ## The Case
 
+> ICT means Intelligent connected technology
+
 Founded in 1921 by Meitaro Takeuchi, Komatsu is a Japanese multinational corporation that manufactures construction, mining, forestry and military equipment, as well as diesel engines and industrial equipment like press machines, lasers and thermoelectric generators. Its headquarters are in Minato, Tokyo, Japan.
 
 Komatsu is the second world's largest manufacturer of construction equipment and mining equipment aftearger share than Caterpillar. It has manufacturing operations in Japan, Asia, Americas and Europe.
@@ -125,6 +127,46 @@ For inspections, Smart Construction simplified the traditionally paper-based pro
 There should be emphasis on topics discused in class, such as:
 - Digital Business Models
 - Key Features of the Digital Economy
+
+## Before answering the questions
+
+> This is me trying to understand the case better. Text in this format are my thoughts and notes.
+
+In 2015, under Tetsuji Ohashi leadership, the Smart Construction business is launched. 
+
+**But why ?**
+
+**Imminent worker shortages**, hopes to increase **labor productivity** and **workplace safety** were the main drivers for the Smart Construction initiative. 
+
+Ohashi had previous experince with ICT equipment in the US in 2010 and came to the realiziation that information-based construction could be a key to address the issues.
+
+Through experience at the company's factories, he also grew strong views on the importance of connectity. However, he observed that improving efficienty in one part of the process, such as using ICT equipment, was not sufficient since a "bottleneck" could occur in another part of the process.
+
+> I.e, regardless of how fast, automated and efficient an excavator became, if the correct number of dump trucks were not available to transport the soil, productivity would stall.
+
+To support this vision, Komatsu launched KomConnect, a cloud-based platform in which data (such as topography data, gathered by drones, plans, measurements, machine movements, etc) is stored and visualized.
+
+> Ok, it's been established that the Smart Construction initiative was launched to address the issues of worker shortages, labor productivity and workplace safety. But what is the initiative itself?
+
+Long story short, Smart Construction is born out of the need to fully integrate the construction process, from surveying to inspection, and to provide a platform for all stakeholders to access and share data.
+
+As mentioned in the case:
+
+```txt
+Komatsu’s ultimate objective was to “achieve the digital transformation of construction by
+advancing products (such as automation and autonomous operation), and processes (such as
+optimization) to help create safe, highly productive, smart, and clean workplaces of the future.” 30 The goal was to “automate everything that could be automated”
+```
+
+SC digitally connects the whole construction process.
+
+> Ok, we've established what SC is. What are we studying tho?
+
+So, in 2015 they launch SC. In 2019, in had made $30M in revenue and had a 2% market penetration. Ohashi was not satisfied with the results and wanted to expand the business.
+
+So, he drafts an investment plan worth of $1.6B, most of it to be invested in SC. The goal is to use it to develop the necessary software to grow the business and roll it out beyond the home market of Japan.
+
+> This is all to nice, but we're focused on the digital transformation that occured between 2015 and 2019. What happened during that time? How did they use digitalization to achieve the results they did? What's the business model behind SC?
 
 ## Conclusions
 
