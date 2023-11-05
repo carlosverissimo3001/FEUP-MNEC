@@ -43,6 +43,8 @@
 - [Blog](https://blog.aptdeco.com/)
 - [Inteview with founders](https://www.youtube.com/watch?v=uPrIsSWhW7o)
 - [Y-Combinator Page](https://www.ycombinator.com/companies/aptdeco)
+- [Harvard Business School Podcast](https://hbswk.hbs.edu/item/cold-call-how-to-scale-a-startup-marketplace-for-used-furniture)
+- [The Modern Retail Podcast](https://www.modernretail.co/retailers/building-a-business-that-will-last-aptdecos-reham-fagiri-on-scaling-economically/)
 
 > The following case study covers the journey of AptDeco, a New York-based startup that operated an online marketplace for used furniture.
 
@@ -157,7 +159,7 @@ From 2017, they introduced a structure variable by size, and from 2014 to 2016, 
 
 #### 3.5.1 Taking Delivery In-House
 
-Initially, the founders were planning on outsourcing deliveries. Inspired by Uber's early model business of luxury black car drivers, they wanted to outsource the delivery to moving companies that experienced demand fluctuations throughout the month. 
+Initially, the founders were planning on outsourcing deliveries. Inspired by Uber's early model business of luxury black car drivers, they wanted to outsource the delivery to moving companies that experienced demand fluctuations throughout the month.
 
 AptDeco planned on using the days of the month where delivert vans would be typically unused. This allows them to reduce costs and overhead while offering competitve prices to customers.
 
@@ -180,7 +182,7 @@ AptDeco's primary competitive advantage was providing the cheapest, highest qual
 | - | AptDeco | Traditional Delivery |
 | - | ------- | -------------------- |
 | Cost (Average) | $90 | $150-$300 |
-| Speed (Average) | 4-5 days | 10-21 days | 
+| Speed (Average) | 4-5 days | 10-21 days |
 
 Providing these kinds of delivery services at that cost and time is not easy. AptDeco invested heavily in proprietary scheduling and logistics technology to optimize the delivery process.
 
@@ -269,7 +271,7 @@ For example, Airbnb caters to a wide variety of hosts, like rental companies, pr
 
 Aptdeco can provide an alternative solution for retailers to have an online storefront and resell inventory taking up valuable and costly warehouse space. Many traditional sellers do not have the knowhow to start their own online stores.
 
-As offline sales suffer from a reduction in foot traffic, eCommerce is becoming increasingly important for retailers. 
+As offline sales suffer from a reduction in foot traffic, eCommerce is becoming increasingly important for retailers.
 
 #### 6.1.2 Interior Designers
 
@@ -287,7 +289,34 @@ In 2019, nearly 30% of real estate brokers chose to stage apartments before list
 
 ### 6.2 New Market Expansion
 
+Despite a previous unsuccessful attempt to expand to the D.C. market, AptDeco was now in a much better position to expand to new markets as it had taken key learning from its previous experience. Their investment in diversified marketing channels, and primarily its growing capabilities with Google, Facebook and other paid social channels,  would put the company in a better position to aquire customers in new markets with limited up-front investment and CAC.
+
+Expansion plans were forecasted for the following key metro markets:
+
+- Bay Area
+- Los Angeles
+- Chicago
+- South Florida
+- Texas
+- Philadelphia
+- Boston
+- D.C. Metro Area
+
+Not everyone was on board with this plan as still were remenescent of the operational rigor and efficient marketeting spend in the core market that was needed to keep AptDeco alive after the D.C. expansion.
+
+They also believed that the NYC market was not yet saturated and early data showed growth potential in the subourbs of NYC. The 150 miles surrounding NYC encompasses population dense suborbs acroos three states: New York, New Jersey and Connecticut.
+
+Their acquision team was already efficiently allocating marketing spend to the fastest growing zipcodes.
+
+Should the team double down marketing spend on outer regions to test growth potential and market saturation levels where AptDeco already had a presence before expanding to new markets?
+
 ### 6.3 Rebranding with Sustainability Focus
+
+AptDeco acknowledges its role in the circular economy and environmental sustainability. Traditionally, the furniture industry is wasteful and pollutive. Despite a focus on sustainability, AptDeco initially emphasized convenience and value over ecological concerns.
+
+However, recent user trends show that a significant portion of AptDeco's customer base consists of sustainability-conscious Gen Z and Millennials, particularly women. These users prefer secondhand shopping and sustainable brands.
+
+AptDeco now faces the question of whether it has overlooked a crucial aspect of its brand for its younger and more sustainability-conscious user base.
 
 ### 6.4 Sustainable Growth
 
