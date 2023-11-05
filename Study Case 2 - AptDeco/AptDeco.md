@@ -22,6 +22,9 @@
 - [5. Doubling Down On Tri-State Area](#5-doubling-down-on-tri-state-area)
 - [6. The Road Ahead](#6-the-road-ahead)
   - [6.1 Super Users](#61-super-users)
+    - [6.1.1 Vintage Stores and Small Furniture Retailers](#611-vintage-stores-and-small-furniture-retailers)
+    - [6.1.2 Interior Designers](#612-interior-designers)
+    - [6.1.3 Real Estate Brokers](#613-real-estate-brokers)
   - [6.2 New Market Expansion](#62-new-market-expansion)
   - [6.3 Rebranding with Sustainability Focus](#63-rebranding-with-sustainability-focus)
   - [6.4 Sustainable Growth](#64-sustainable-growth)
@@ -154,27 +157,141 @@ From 2017, they introduced a structure variable by size, and from 2014 to 2016, 
 
 #### 3.5.1 Taking Delivery In-House
 
+Initially, the founders were planning on outsourcing deliveries. Inspired by Uber's early model business of luxury black car drivers, they wanted to outsource the delivery to moving companies that experienced demand fluctuations throughout the month. 
+
+AptDeco planned on using the days of the month where delivert vans would be typically unused. This allows them to reduce costs and overhead while offering competitve prices to customers.
+
+This model would not work for a few reasons:
+
+- By outsourcing, they would lose valuable control over customer experience
+  - They would get blamed for any issues with the delivery, even if they had no control over it.
+- AptDeco faced similar demand swings as the moving companies and would be subject to their cancellation and delays as moving companies were prioritizing their own customers.
+
+So, they decided to bring delivery in-house, starting with two movers an a truck.By 2019, they had 13 trucks and 60 delivery team members.
+
+Customers were happy and it was actually cheaper long-term and better for the business, as it allowed them to solidify their value proposition.
+
+The drivers were also responsible for examing the item when they picked it up and any issues would be reported to the customer service team.
+
 #### 3.5.2 Proprietary Scheduling & Logistics Technology
+
+AptDeco's primary competitive advantage was providing the cheapest, highest quality, and most scalable delivery experience in the market.
+
+| - | AptDeco | Traditional Delivery |
+| - | ------- | -------------------- |
+| Cost (Average) | $90 | $150-$300 |
+| Speed (Average) | 4-5 days | 10-21 days | 
+
+Providing these kinds of delivery services at that cost and time is not easy. AptDeco invested heavily in proprietary scheduling and logistics technology to optimize the delivery process.
+
+When an item is sold, buters could propose numberous delivery dates and times. AptDeco's technology would then optimize the delivery route for the driver, taking into account the location of the item, the buyer and the other deliveries scheduled for that day.
 
 #### 3.5.3 Data-Driven Merchandising & Marketing
 
+How to ensure sellers continue to return to the platform and feel like the commission is worth it?
+
+- AptDeco dissects every componenent of an item listed to understand what drives a sale. This contributed to AptDeco's 7-10 average sell-through rate, which was higher than the industry average.
+
+They initially outsourced marketing and analytics but soon realized that, to make conscious decision and understand the CAC and realise what is working or not, they needed to bring it in-house as it is diffcult to do well through an agency or third party.
+
+Bringing delivery in house also helped them. For one, they benefited from branding its fleet of vans and the positive delivery experience led to an increase in WOM(Words of Mouth) referrals.
+
+Subway advertising was also a big part of their marketing strategy.
+
+In the launch years, subway advertising made up a large percentage of the marketing mix, followed closely by WOM referrals.
+
 ## 4. Replicating the model: D.C Metro Area
+
+In 2015, they raise 1.3M in its first round funding.They hired a small team of engineers and operations leads to penetrate the NYC market, testing and iterating their business model and scaling playbook from what they learned during Y Combinator.
+
+In the meantime, Move Loot, a competitor, was launching nationally via outsource third-party logistics partners and raised $20M in funding.
+
+AptDeco early investors were growing impatient and wanted to see the company expand to other markets.
+
+- In 2016, after 2 1/2 years in the NYC market and over 200% year-over-year growth, AptDeco decided to expand to another market.
+
+How to choose the next market?
+
+- Well, in NYC they learned their buyers were typically younger man and woman while sellers were typically older and skewed female. Both groups wanted to better their lives as their family and financial situations changed.
+  - Diverse, growing and transient communities were the best fit for AptDeco's business model.
+  - In addition, they need a market with similar logistics and population density to NYC.
+
+They chose Washington D.C. metro area: The market was really similar to that of NYC in terms of population, median age and household income. It was also a transient market with a lot of young professionals moving in and out of the city driven by colleges, universities and well as international as mobile population in the government sector.
+
+To reduce seller-acquisition challanges, they made inventory from the NYC market available to buyers in the D.C. market. The marketing primarly focused on WOM referrals and subway advertising.
+
+The D.C. market was not sucessfull:
+
+- Subway advertising was not showing significant ROI, when compared to NYC, which made CAC skyrocket.
+- Without listings from D.C Metro sellers, buyers were limited to items from the NYC area, which strained the logistics network and increased delivery times.
+  - AptDeco was not able to sustain long-distance delivery back and forth between NYC and D.C.
+
+They were burning cash at an unsustainable rate and decided to pull out of the D.C. market after only 6 months. In the same time, Move Loot shut down completely.
 
 ## 5. Doubling Down On Tri-State Area
 
+After a failed expansion to the D.C. market, AptDeco decided to focus on servicing theur core market. THey spent motnhts getting the business back on financial health and looked to understand what went wrong in D.C.
+
+The key learning is that relying on one or two marketing channels for the mix is not enough. Without the cash necessary to invest in subway advertising, they needed to find other ways to acquire customers. Dennis taugh himself digital marketing and started to run Facebook and Google ads.
+
+After months of trial and error, they had a healthy marketing mix that included subway advertising, WOM referrals, affiliate marketing, and digital marketing.
+
+A refocus on delivery service quality and customer experience led to a significant increase in WOM organic referrals, becoming a key driver of low CAC and freeing up dollart to test new marketing channels.
+
+AptDeco recognized the need for a streamlined and consistent brand voice, especially given its position as a two-sided marketplace with distinct user types. Buyers and sellers, although demographically different, showed varied engagement behaviors. The company identified the effectiveness of simplified, user-specific digital advertising campaigns that boosted conversion rates.
+
+The focus shifted towards speaking clearly and consistently to all users, and the creative content evolved accordingly. Instead of skewing towards sellers, the approach broadened to cater to the existing two-sided marketplace, particularly in the Tri-State area. The goal was to convey the platform's value in just a few seconds to any user. Comparative advertising, highlighting top-selling brands like West Elm, became essential for driving clicks and conversions.
+
+Furthermore, intentional retargeting through email campaigns played a crucial role in promoting conversions, encouraging buyers to relist purchased items, and facilitating the transition from buyers to sellers and vice versa. These efforts contributed to maintaining marketing profitability for AptDeco.
+
 ## 6. The Road Ahead
+
+By 2019, AptDeco had reached solid point:
+
+- Solid financial footing after two additional rounds of funding.
+- Trend of measured growth and profitability.
+- 20 team members, organized across: engineering, operations, customer experience and acquisition,
+- 13 trucks with point of return to a small warehouse in Brooklyn.
+- Diversified and efficient marketing mix across WOM, digital, affliate.
+  - Subway advertising had been mostly phased out and CACs had remained low and predictable.
+
+Founders, alongside their investors, started to think about expansion opportunities and how to scale the business. With additional four years of testing, iterating and perfecting the model since the D.C experince, the pair had a bright vision for the future of AptDeco with several options to consider.
 
 ### 6.1 Super Users
 
-- Vintage Stores and Small Furniture Retailers
-- Interior Designers
-- Real Estate Brokers
+Advised by Y combinator experts, the pair considered tapping into super users:
+
+- high volume professional buyers and sellers who drive significant listings and lower acquisition costs.
+
+For example, Airbnb caters to a wide variety of hosts, like rental companies, property managers, hotel operators and more, with a suite of professional hosting tools and software. Uber offered an uber-taxi option by relying on fleets of professional drivers.
+
+#### 6.1.1 Vintage Stores and Small Furniture Retailers
+
+Aptdeco can provide an alternative solution for retailers to have an online storefront and resell inventory taking up valuable and costly warehouse space. Many traditional sellers do not have the knowhow to start their own online stores.
+
+As offline sales suffer from a reduction in foot traffic, eCommerce is becoming increasingly important for retailers. 
+
+#### 6.1.2 Interior Designers
+
+The US interior design history is very valuable and is highly fragmented with over 100000 businesses and operated by 150000 freelancers or independent designers.
+
+Traditionally, interior designers have scoured antiques and high-end designer outlets to find unique pieces for their clients, often building exclusive relationships with antiques dealers. However, the industry has faced challenges, including a 1.5% annualized decline in demand from 2015 to 2019 due to factors such as tighter margins, smaller budgets, and heightened client expectations. To adapt to these changes, interior designers have started looking for more cost-effective options without compromising aesthetics.
+
+AptDeco introduced an Interior Design Program early on, allowing designers to register as trade members and receive a 5% discount on their purchases. Nevertheless, the company had not yet implemented targeted marketing campaigns or allocated specific spending towards interior designers.
+
+#### 6.1.3 Real Estate Brokers
+
+In the dynamic environment of New York City, where the average 21-38-year-old resident moves every 1.7 years (an 18% increase over the past decade), the real estate market is notably competitive and expensive. Real estate brokers play a central role in this market, dealing with a variety of property types, including rentals, co-ops, condos, cond-ops, and sales. They charge substantial fees, often as high as 15%, for their services. Of particular interest is the luxury housing segment, where brokers manage complex sales processes in upscale buildings, requiring expertise in home staging and marketing, both online and offline.
+
+In 2019, nearly 30% of real estate brokers chose to stage apartments before listing them, spending an average of $2,000 to $5,000 on renting or buying staging furniture. This investment was expected to yield a 5% return on investment based on the final selling price. With a staggering number of over 50,000 licensed real estate brokers in the five boroughs of NYC, this group of super users presented a unique opportunity for AptDeco. Brokers could serve as both buyers of staging items and sellers once the staging process was complete. Moreover, brokers had valuable connections with large property management companies that oversaw more than 1,000 apartment buildings throughout the city, providing AptDeco with access to a substantial potential user base and insights into property turnover.
 
 ### 6.2 New Market Expansion
 
 ### 6.3 Rebranding with Sustainability Focus
 
 ### 6.4 Sustainable Growth
+
+Founders were excited about the potential of each of these options, and felt ready to handle the challanges ahead.
 
 ### 7. Business Model Canvas
 
