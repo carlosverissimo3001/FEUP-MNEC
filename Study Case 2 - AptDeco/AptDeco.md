@@ -177,7 +177,7 @@ The drivers were also responsible for examing the item when they picked it up an
 
 #### 3.5.2 Proprietary Scheduling & Logistics Technology
 
-AptDeco's primary competitive advantage was providing the cheapest, highest quality, and most scalable delivery experience in the market.
+AptDeco's primary competitive advantage was providing the cheapest, highest quality, and most scalable delivery w in the market.
 
 | - | AptDeco | Traditional Delivery |
 | - | ------- | -------------------- |
