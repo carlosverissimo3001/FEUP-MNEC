@@ -9,7 +9,6 @@
   - [Types of Digital Business Models](#types-of-digital-business-models)
 - [Chapter 2: Key Features of the Digital Economy](#chapter-2-key-features-of-the-digital-economy)
   - [Information Goods](#information-goods)
-    - [Information Good](#information-good)
     - [Differential Pricing](#differential-pricing)
     - [Rights Management](#rights-management)
     - [Attention Economics](#attention-economics)
@@ -17,14 +16,16 @@
     - [Example: Spotify](#example-spotify)
   - [Information Technology](#information-technology)
     - [Switching Costs and Lock-In](#switching-costs-and-lock-in)
+    - [Example: MS Windows](#example-ms-windows)
     - [Network Effects](#network-effects)
+    - [Example: Waze](#example-waze)
   - [Change](#change)
-- [3. Platform Strategies](#3-platform-strategies)
-- [4. Ecosystem Dynamics](#4-ecosystem-dynamics)
-- [5. AI-Based Business Models](#5-ai-based-business-models)
-- [6. Data-Driven Business Models](#6-data-driven-business-models)
-- [7. Software as a Service and Servitization Business Models](#7-software-as-a-service-and-servitization-business-models)
-- [8. Omnichannel Business Models](#8-omnichannel-business-models)
+- [Chapter 3: Platform Strategies](#chapter-3-platform-strategies)
+- [Chapter 4: Ecosystem Dynamics](#chapter-4-ecosystem-dynamics)
+- [Chapter 5: AI-Based Business Models](#chapter-5-ai-based-business-models)
+- [Chapter 6: Data-Driven Business Models](#chapter-6-data-driven-business-models)
+- [Chapter 7: Software as a Service and Servitization Business Models](#chapter-7-software-as-a-service-and-servitization-business-models)
+- [Chapter 8: Omnichannel Business Models](#chapter-8-omnichannel-business-models)
 
 ## Chapter 1: Digital Business Models
 
@@ -198,8 +199,6 @@
 
 ### Information Goods
 
-#### Information Good
-
 - **Information Good**: Anything that can be digitized.
 
 | Stage | Characteristics | Implications |
@@ -269,20 +268,263 @@
 
 - **Information technology**: infrastructure that deals with information goods (store, search, retrieve, copy, filter, manipulate, view, transmit, receive)
 
+<table style="width:100%">
+  <tr>
+    <th>Examples</th>
+    <th>Characteristics</th>
+    <th>Implications</th>
+  </tr>
+  <tr>
+    <td> Smartphones </td>
+    <td> High switching costs and lock-in </td>
+    <td rowspan="2">Tension between buyers and sellers on <strong>value</strong> capture</td>
+  </tr>
+  <tr>
+    <td> Browsers </td>
+    <td rowspan="3"> Importance of complementors </td>
+  </tr>
+  <tr>
+    <td> Game consoles </td>
+    <td> Tension between buyers and sellers on <strong>value</strong> capture; Achieving critical mass for <strong>value</strong> </td>
+  </tr>
+  <tr>
+    <td> Music Players </td>
+    <td rowspan="3"> Achieving critical mass for <strong>value</strong></td>
+  </tr>
+  <tr>
+    <td> DBMS (Database Management Systems)</td>
+    <td> Strong Network effects </td>
+</table>
+
 #### Switching Costs and Lock-In
+
+<table style="width:100%">
+  <tr>
+    <th>Examples</th>
+    <th>Difficulties in Switching</th>
+    <th>Categories</th>
+  </tr>
+  <tr>
+    <td>Mobile phones</td>
+    <td>2-year contracts</td>
+    <td>Contractual commitments</td>
+  </tr>
+  <tr>
+    <td>Game consoles</td>
+    <td>Learning interface, incompatible gaming hardware, incompatible games</td>
+    <td>Complementary investments – durable purchases followed by complementary purchases*, specific training, asset creation</td>
+  </tr>
+  <tr>
+    <td>Web browser</td>
+    <td>Effort to set up same functionality</td>
+    <td>Transaction costs – time and effort to change</td>
+  </tr>
+  <tr>
+    <td>Search engine</td>
+    <td>Find and evaluate other engines</td>
+    <td>Search costs – time and effort to find and evaluate, risk of new</td>
+  </tr>
+  <tr>
+    <td>Mobile phones</td>
+    <td>Loyalty benefits</td>
+    <td>Loyalty programs – benefits increase with longevity</td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>Example</th>
+    <th>Categories of switching costs</th>
+  </tr>
+  <tr>
+    <td>Google Chrome</td>
+    <td>
+      <ul>
+        <li>Change computer settings – complementary investment, asset creation</li>
+        <li>Unknown quality of alternatives – search costs</li>
+        <li>How to use effectively – complementary investment, training</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Facebook</td>
+    <td>
+      <ul>
+        <li>List of friends – complementary investment, asset creation</li>
+        <li>Learning the interface – complementary investment, training</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>iPhone</td>
+    <td>
+      <ul>
+        <li>Software – complementary investment, complementary purchases*</li>
+        <li>Learning the interface – complementary investment, training</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="images/switching_costs.png" alt="Switching Costs/>
+</p>
+
+> "*" : complementors --> if specialized, contribute to lock-in
+
+#### Example: MS Windows
+
+- Licensed lock-in - long term licensing contracts
+- User lock-in - pre-installation, learning and complementors
+- Lock-ins link benefits with switching costs, with a reflex on the extension of recurring revenues
 
 #### Network Effects
 
+<table>
+  <tr>
+    <th> Examples </th>
+    <th> Benefits </th>
+    <th> Network Effects </th>
+  </tr>
+  <tr>
+    <td> Communication technologies </td>
+    <td rowspan="4"> Users inherently care about other users </td>
+    <td rowspan="4"> Direct network effects </td>
+  </tr>
+  <tr>
+    <td> Internet </td>
+  </tr>
+  <tr>
+    <td> Email </td>
+  </tr>
+  <tr>
+    <td> Video Conferencing </td>
+  </tr>
+  <tr>
+    <td> Eletric vehicles and charging stations </td>
+    <td rowspan="2"> Users care about complementary goods </td>
+    <td rowspan="2"> Indirect network effects </td>
+  </tr>
+  <tr>
+    <td> Gaming consoles and games </td>
+  </tr>
+</table>
+
+- When value of format or system depends on the number of users, **achieving critical mass** is a key challenge.
+
+<table>
+  <tr>
+    <th> Nature of the challenge </th>
+    <th> Methods to address the challenge </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li> Low early value
+        <li> Certain homing costs (product, training, etc.)
+        <li> Uncertain current and <strong>future</strong> benefits
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Introductory discounts
+        <li> Direct management through announcement of products, services or features
+        <li> Internalisation of externalities by users (co-create benefits, bear costs) - invite relationships
+        <li> Leverage small networks - instituions, geographies, segments...
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td> Assemble group of partners* (with different degrees of openness)
+      <ul>
+        <li> Go-it-alone - compete to become standard (Microsoft - MS Office)
+        <li> Formal standards - compete within standard (Ericsson, IBM - Bluetooth)
+        <li> Open parts of the "standard" - intermediate position (Adobe - PDF)
+      </ul>
+    </td>
+
+</table>
+
+> "*"Complementors - strengthen netowrk effects adding directly to initial base and managing expectations
+
+#### Example: Waze
+
+- Same-side network effects - the users contribute to the value proposition directly
+- Data network effects - the users contribute to the value proposition indirectly through smarter algorithms
+- Critical mass - free app drives faster user acquisition
+
 ### Change
 
-## 3. Platform Strategies
+<table>
+  <tr>
+    <th> Change </th>
+    <th> Implications </th>
+  </tr>
+  <tr>
+    <td> <strong> In Information Goods </strong>
+      <ul>
+        <li> Everything is being digitized
+        <li> Changes in degree - change in kind
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Cheaper or free to produce information, through:
+          <ul>
+            <li> User-generated content
+            <li> Machine-generated content
+            <li> Support to understand and prediction
+          </ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> <strong> In Information Technology </strong>
+      <ul>
+        <li> Exponential improvements
+        <ul>
+          <li> Computation
+          <li> Communication
+          <li> Sensing
+        </ul>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Pattern recognition and beyond
+        <li> New areas of the economy and society where the economics of information will apply
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> <strong> In Innovation </strong>
+      <ul>
+        <li> Informatiuon goods and technologies foster recombinant innovation
+        <li> Each development is a building block for future innovation
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> Combining through the possibilities
+        <ul>
+          <li> More eyeballs
+          <li> Leverage increased computation, communication and data
+        </ul>
+      </ul>
+    </td>
+</table>
 
-## 4. Ecosystem Dynamics
+## Chapter 3: Platform Strategies
 
-## 5. AI-Based Business Models
+## Chapter 4: Ecosystem Dynamics
 
-## 6. Data-Driven Business Models
+## Chapter 5: AI-Based Business Models
 
-## 7. Software as a Service and Servitization Business Models
+## Chapter 6: Data-Driven Business Models
 
-## 8. Omnichannel Business Models
+## Chapter 7: Software as a Service and Servitization Business Models
+
+## Chapter 8: Omnichannel Business Models
