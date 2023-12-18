@@ -1,5 +1,7 @@
 <h1> Notes for the exam - 15th of January 2024
 
+<h2> Table of Contents </h2>
+
 - [Chapter 1: Digital Business Models](#chapter-1-digital-business-models)
   - [Business Model](#business-model)
   - [Definition](#definition)
@@ -21,7 +23,18 @@
     - [Example: Waze](#example-waze)
   - [Change](#change)
 - [Chapter 3: Platform Strategies](#chapter-3-platform-strategies)
+  - [Value Creation](#value-creation)
+  - [Value Capture](#value-capture)
+  - [Product to Platform](#product-to-platform)
+  - [Example: Amazon -\> Amazon Marketplace](#example-amazon---amazon-marketplace)
+    - [Value Creation](#value-creation-1)
+    - [Value Capture](#value-capture-1)
+    - [Transition](#transition)
 - [Chapter 4: Ecosystem Dynamics](#chapter-4-ecosystem-dynamics)
+  - [Enablers](#enablers)
+  - [How to Organise Economic Activity](#how-to-organise-economic-activity)
+  - [Complementor Relations](#complementor-relations)
+  - [Key Strategic Questions](#key-strategic-questions)
 - [Chapter 5: AI-Based Business Models](#chapter-5-ai-based-business-models)
 - [Chapter 6: Data-Driven Business Models](#chapter-6-data-driven-business-models)
 - [Chapter 7: Software as a Service and Servitization Business Models](#chapter-7-software-as-a-service-and-servitization-business-models)
@@ -519,7 +532,87 @@
 
 ## Chapter 3: Platform Strategies
 
+- A platform is a product or a service that enables two or more customer groups to interact or transact.
+
+### Value Creation
+
+<p align="center">
+  <img src="images/value_creation.png" alt="Value Creation" width="500"/>
+</p>
+
+| Example | Searching & Matching | Price & Payment | Building Trust | Network Effects |
+| --- | --- | --- | --- | --- |
+| Ridesharing | Automatically matches drivers and riders | Set by platform | - Background and criminal checks <br> - Service transparency <br> - Refusual "insurance" <br> - Privacy | - Driver availability <br> - Stream of rides <br> - Data improves algorithms |
+| eBay | Customers search and sellers accept by default | Set by sellers or through auctions | Buyers rate seller's quality | Direct access to large base of buyers, fast and convenient purchases |
+| Airbnb | One side expresses interest, both sides have to affirm acceptence | Set by sellers | Property damage insurance | Local accomodation availability, stream of guests |
+| Upwork | One side expresses interest, both sides have to affirm acceptence | Initial quote, adjusted during service provisioning | Buyers and sellers rate each other's quality | Direct access to large base of freelancers, stream of projects |
+| **Categories** | <li> **Centralized** automated by proprietary algorithms; assumes known preferences and substitutabilty <li> **Decentralized** - search participants, select preferred, acceptence by default or affirmative | <li> **Set by platform** - requires enough relevant information; minimum friction and hassle <li> **Set by seller** - costs differ; sellers have superior information; auctions <li> **Bilateral bargaining** - buyers and sellers better positioned to know value <br> (Evolve to platform with data) | <li> **External or internal screening** - occupational licensing, checks <li> **Online rating system** - useful but is a hassle and may be biased, manipulated or faked <li> **Protection** should something go wrong - protect from transactions in which bad things happen | <li> **Direct** - same side network effects <li> **Indirect** - cross-side network effects <li> **Data** - positive feedback loop with quality of service |
+
+### Value Capture
+
+<p align="center">
+  <img src="images/value_capture.png" alt="Value Capture" width="500"/>
+</p>
+
+| Example        | Pricing | Winner-takes-all | Scale & scope economies | Envelopment |
+|----------------|---------|------------------|-------------------------|-------------|
+| **Xbox, Playstation** | Charge both sides, subsidize customers – console price below cost, leverage switching costs | High: high switching costs; strong cross- and same-side network effects | New consoles are a huge investment | Amazon, Apple |
+| **YouTube Premium** | Subscription – align how users experience with how they pay | High: strong cross-side and data network effects; moderate-high same-side network effects; moderate-high switching costs | <li> YouTube’s original user base and capabilities valuable in this scenario <li> Leveraging investment in proprietary algorithms | Enveloper |
+| **Uber Eats** | Commission | Moderate-high: network effects saturate locally; moderate costs to using multiple platforms | <li> Uber’s user base and capabilities valuable in this scenario <li> Leverage investment in proprietary algorithms | Enveloper |
+| **Categories/Conditions** | <li> Who to charge and/or who to subsidize? Charge both sides and/or subsidize one side? <li> When to charge? Charge before and/or with the transaction? <li> What behaviours are incentivized? | <li> High multi-homing costs <li> Strong network effects <li> Neither side values specialized feature (niching) | <li> Large investments in value creation features <li> Increase variety of products & services | Functionality included in multiplatform bundle <li> Change Business Model – e.g., focus on higher-margin\*larger-volume segment <li> Find "bigger brother" – partner with threatened players <li> Sue – antitrust |
+
+
+### Product to Platform
+
+<p align="center">
+  <img src="images/product_to_platform.png" alt="Product to Platform" width="500"/>
+</p>
+
+| Where to start? | What business model? | How to transition? |
+|-----------------|----------------------|--------------------|
+| <li> Defensible product – enough value rooted on unique core competences, to keep users from defecting to competition <li> Critical mass of users – enough frequent users <li> Flexible? Side with weaker need for other side | <li> Hybrid – product remains primary attraction; keep open mindset, turn hacks into opportunities <li> More of the same – product does not remain primary attraction – mixed for 3rd party – more customers, less costs, rival control (favouring own offerings) <li> Something different – more may be infeasible; may require more investment on capability and users (value and trust) | <li> Rapid customer conversion – adequate value; brand consistency; involve users in improvements; communicate closely <li> Lead company "conversion" – cultural reeducation to serve two different sets of customers <li> Avoid competitor "conversion" – manage scope of control/offer; exclusivity with "choking" partners; continue to add value to platform
+| <li> Valve (game producer) > Steam (digital game distributor): popular game producer with proprietary updating and rights management system <li> LinkedIn > LinkedIn Jobs - passive candidates are interesting, but not interested <li> Google Search mid-90s > Search advertising 2000 | <li> Valve and Steam (from product feature as patch distribution to platform as game distribution): initially hybrid, increasingly more of the same. <li> iPhone jailbreaking and App Store <li> Google after search engine | <li> Valve and Steam <ul> <li> Value and consistency as online software distributor; marketplace to interact and trade game items <li> Adding digital game distributor to traditional game producer <li> Proprietary software; items marketplace
+
+### Example: Amazon -> Amazon Marketplace
+
+#### Value Creation
+
+- Searching & Matching: Customers search (A9, Google-like sophisticated system to connect shoppers with relevant products as quickly as possible) and sellers accept by default.
+- Price & Payment: Sellers set the prices, but Amazon monitors them. Payments with debit and credit cards through Amazon’s proprietary payments platform.
+- Trust – Price monitoring, business name and address required, customer reviews.
+- Network effects:
+  - Value proposition for sellers: Direct access to massive consumer base not otherwise available; ability to access consumers without third-party sellers and potential to retain higher margins returns
+  - Value proposition for buyers: Convenient purchase process; fast and reliable delivery;
+customer service
+  - Data: Recommendation system
+
+#### Value Capture
+
+- Pricing – Sellers are charged fixed and variable closing fees, as well as referral fees; subscription available for purchasers
+- Winner-takes-all – Moderate-high – relevant network effects, niching possible, multi-homing costs may be higher for sellers, lower for buyers
+- Scale & scope economies – Huge for Amazon
+- Envelopment – Amazon is the enveloper
+
+#### Transition
+
+- Where to start? Online store with huge scale and scope economies, strong value proposition, huge mass of users, with online store having weaker need for the other side.
+- What business model? Hybrid, more of the same, rival control (central in US and EU investigations into Amazon)
+- How to transition?
+  - Conditions for rapid conversion – adequate value, brand consistency.
+  - Sellers who were suppliers and competitors are now customers and there are two sets of customers – Amazon’s obsessive customer focus required reeducation
+  - Amazon continued to add value to the platform
+
 ## Chapter 4: Ecosystem Dynamics
+
+- **Digital Ecosystems**: interacting organizations that are digitally connected and enabled by modularity, and are not managed by hierarchical authority:
+
+### Enablers
+
+### How to Organise Economic Activity
+
+### Complementor Relations
+
+### Key Strategic Questions
 
 ## Chapter 5: AI-Based Business Models
 
