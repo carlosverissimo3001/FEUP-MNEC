@@ -46,6 +46,17 @@
     - [The DDBM framework - building blocks](#the-ddbm-framework---building-blocks)
     - [Type of DDBMs](#type-of-ddbms)
 - [Chapter 7: Software as a Service and Servitization Business Models](#chapter-7-software-as-a-service-and-servitization-business-models)
+  - [IoT and Service Business Models](#iot-and-service-business-models)
+    - [Enablers: Building the Technology](#enablers-building-the-technology)
+    - [Engagers: Connecting to Customers](#engagers-connecting-to-customers)
+    - [Enhancers: Creating New Value](#enhancers-creating-new-value)
+  - [What is the impact of IoT on existing manufacturing companies?](#what-is-the-impact-of-iot-on-existing-manufacturing-companies)
+    - [Product-oriented service provider](#product-oriented-service-provider)
+    - [Industrialiser](#industrialiser)
+    - [Customized integrated solutions provider](#customized-integrated-solutions-provider)
+    - [Outcome provider](#outcome-provider)
+    - [Platform provider](#platform-provider)
+  - [Energy service business models](#energy-service-business-models)
 - [Chapter 8: Omnichannel Business Models](#chapter-8-omnichannel-business-models)
 
 ## Chapter 1: Digital Business Models
@@ -775,8 +786,7 @@ Automate decicion making:
 | | |
 | --- | --- |
 | Key data sources | free available data sources: Stack Overflow; Q&A websites; Review sites; Booking websites; Social media (Twitter, Facebook); Stock markets
-| Key activities | performing analytics on free available data (and crawl data from
-the web)
+| Key activities | performing analytics on free available data (and crawl data from the web)
 | Value proposition | Aggregate large amounts of data and identify or predict trends, viral contents and key influencers for any topic in real-time
 | Customer segments | B2B, B2C
 | Revenue model | subscription, usage-fee-based models, advertising and brokerage fees;
@@ -805,5 +815,131 @@ the web)
 | Example | <https://www.ampplaybook.com>
 
 ## Chapter 7: Software as a Service and Servitization Business Models
+
+### IoT and Service Business Models
+
+- **Services** are activities one party offers to another, involving time-based efforts to achieve desired outcomes for people, objects, or assets under the customer's care. Customers spend money, time, and effort with the expectation of deriving value from accessing tangible goods, labor, expertise, facilities, networks, or systems without owning the physical aspects of the service provided.
+
+- **From services to service logic**:
+  - Service as a perspective: the application of competences for value co-creation
+  - All products are service - they are appliances for service provision
+  - 4 key aspects:
+    - A1: Service is the essential basis of exchange, indicating that all businesses, regardless of industry, fundamentally provide a service.
+    - A2: The customer is an active participant in creating value, emphasizing that value is co-created with the customer rather than embedded in the product by the firm alone.
+    - A3: All economic actors are resource integrators, suggesting that both providers and consumers are involved in combining different resources to create value.
+    - A4: Value is uniquely and phenomenologically determined by the beneficiary, meaning that value is subjective and perceived differently by each customer based on their experiences and context.
+
+- **Value co-creation**
+  - Value is uniquely and phenomenologically determined by the beneficiary (customer)
+  - Viewed from a network perspective, value is co-created through the integration of resources, including a full range of market-facing, private and public actors
+    - Organizations cannot pre-produce and deliver value to customers
+    - Organizations can only create value propositions that customers can use to co-create value
+
+- **Service Systems** are configurations of people, technology and other resoucers that interact to co-create value.
+
+- **Service innovation** can be defined as the creation of new and/or improved service offerings, service processes, and service business models.
+
+- **Business model innovation** requires systematic exploration of reconfigurations of resources and the consequences for value-proposition design
+  - Improving existing offerings
+  - Creating new offerings reconfiguring ecosystem partners
+- Service Science as one of the 100 key IBM inventions in its 100 years of history
+
+- **IoT technologies and services**
+  - **Endpoints** - are the single-function sensors and actuators that reach out and touch the world around them, monitoring for changes and providing feedback to adjust to thosem changes (e.g. temperature sensor)
+  - **Simple hubs** – devices that connect endpoints to broader networks (e.g. connected home thermostat)
+  - **Integrating hubs** - relatively complex devices that connect simple hubs and outside connections, providing a diverse array of services are that fit more or less seamlessly together (e.g. home energy management system).
+  - **Network and cloud services** - provide the infrastructure of the Internet of Things. They deliver the seamless and transparent connection to the Internet that hubs require, along with the cloud computing power needed to collect, store, and analyze vast amounts of data from myriad endpoints.
+  - **Enhanced services** – services that make use of the information collected and analyzed by other platforms and services to deliver broad-based interactive functions (e.g. advanced systems that integrate and build upon the information of multiple hubs to develop more complex services, such as positive energy blocks)
+
+#### Enablers: Building the Technology
+
+- Primarily technology-oriented companies, such as Cisco, HP, IBM, and Intel.
+- Build and maintain the critical IoT infrastructure that allows
+Engagers to create their own connected services.
+- Their offerings include the endpoint, hub, and network and cloud service technologies: devices, connectivity hardware and infrastructure, computing and data storage systems, software platforms, and more.
+- The systems they produce—intelligent endpoints, hubs, cloud services, and platforms—must not just provide connections, but manage and bill for those connections, and allow users to customize and develop their own services.
+
+#### Engagers: Connecting to Customers
+
+- Provide the direct link between the IoT and the market.
+- They use the endpoint, hub, platform, and service offerings created by the Enablers to produce services for consumers and businesses (e.g. home energy management system providers, alexa).
+- Engagers tend to be most active in hubs and connected services.
+- They gain insight into customer needs and expectations, and use human-centered design to develop compelling services that change how customers behave.
+- Moving beyond selling products to offering a powerful and attractive customer experience
+
+#### Enhancers: Creating New Value
+
+- Provide integrated services that reframe and repackage the products and services of the Engagers.
+- Find new ways of creating and extracting value from the data, relationships, and insights generated from IoT activity (e.g. smart city solutions).
+
+### What is the impact of IoT on existing manufacturing companies?
+
+- **Digital Servitization** is the transition toward smart product-service-software systems that enable value creation and capture through monotoring, control, optimization, and autonomous function. This concept reshapes the conventional idea of products as standalone concepts, instead emphasizing the connectivity between products (IoT) and between companioes (manufacturers, operators and customers).
+
+- Product services systems
+  - **Product Oriented Service:**
+    - Maitenance and repair
+  - **Use Oriented Service:**
+    - Leasing
+    - Renting
+    - Sharing
+    - Pooling
+  - **Result Oriented Service:**
+    - Functional results
+    - Activity management
+
+- **Types of digital servitization business models**
+  - **Product-oriented service provider**: Providing products and add-on services
+  - **Industrialiser**: Offering product and service modularity for efficiency and customization
+  - **Customized integrated solutions provider**: Offering integrated product service solutions that are highly customized
+  - **Outcome provider**: Selling outcomes instead of products and service
+  - **Platform provider**: Fully-fledged digitally enabled service where the company is a platform provider that connects various providers and customers
+
+#### Product-oriented service provider
+
+- Provides products and add-on services, with a traditional product business model.
+- The role of remote diagnostics depends on the company technology strategy, but, in this definition, it does not affect product or add-on service pricing, which is still based on sold units.
+- Focuses on capabilities and processes required for efficient design manufacturing, and delivery.
+- The service portfolio is mainly based on basic offerings—so-called add-on services.
+- Often, power is on the customer side, particularly in the case of simpler products and services where the manufacturer switching cost is low.
+- Transaction costs are reduced by offering standard products and add-on services that are fairly easy to sell and purchase.
+
+#### Industrialiser
+
+- Emphasizes product and service modularity to improve efficiency despite increasing demands by customers to customize offerings to their needs.
+- Develops modularity to combine increase efficiency of product-service delivery and customization of solutions
+- In terms of strategic capabilities, it focuses on combining effective solution customization with efficient order delivery by developing capabilities in modularity.
+
+#### Customized integrated solutions provider
+
+- Offer integrated product-service solutions, often entailing relatively high levels of solution customization
+- Provision of availability sets relatively high standards of remote diagnostics, requiring accurate data acquisition, analytics, and implementation.
+- However, the customers of companies that apply this business model may still want to purchase integrated solutions with performance guarantees and availability instead of pure outcomes
+- Some companies using this business model may offer monitoring, control, optimization and crewless autonomy as a service.
+- This requires the development of capabilities in digitalization (e.g., capabilities in monitoring, control, optimization, and autonomous vehicles). These capabilities build on sales, design, and delivery of integrated lifecycle solutions.
+- Development of integrated solutions requires in-depth knowledge of not only customers but also other partner company equipment and processes, as well as the integration of technologies (e.g., software beyond firm boundaries).
+
+#### Outcome provider
+
+- Solution providers that sell outcomes instead of products or services . Instead of selling products, providers retain ownership and sell the value created by the product (e.g. Rolls-Royce's powerby- the-hour concept).
+- Offering such solutions requires the capability of accurately measuring the generated performance, often entailing accurate monitoring and control of the product or fleet of products.
+- Being able to continuously measure and optimize the equipment or processes is a critical underlying requirement of outcome providers.
+- Strategic capabilities to sell and implement outcome-based contracts, suggesting capabilities in detailed monitoring, control and optimization of even autonomous solutions.
+- Implementation of these systems, require also in-depth collaboration between ecosystem actors.
+
+#### Platform provider
+
+- Fully-fledged digitally enabled service business model where the company is a platform provider that connects various providers and customers (e.g. car-sharing platform).
+- This transformation entails a full transition from car manufacturer to provision of (car sharing) services and may require a software platform for multiple different providers and customers.
+- Platform providers need the digital platform, numerous providers and customers, and, to achieve this, a strong brand name. A digital platform is needed not only to share information and facilitate exchanges but also to monitor, control, and optimize services and products.
+- The power position of platform providers is potentially strong because of the data they collect on the usage of services. Platform
+
+### Energy service business models
+
+- Energy supply contract – selling hot water or heat instead of the energy
+- Energy service financing – acting as project developer, financing the primary conversion systems as well as taking responsibility for their O&M (but customers still keep ownership)
+- Energy performance contracts – providing guarantees for measured and verified performance savings from one or more final energy services such as heating or illumination.
+- Energy service agreement - a variant of EPCs that involve integrated financing of energy saving measures, backed by a long-term performance guarantee (off-balance sheet)
+- Energy as a Service (EaaS) - models, bundling the upstream energy supply into a single final service payment, e.g., households may pay a comfort charge relating to room.
 
 ## Chapter 8: Omnichannel Business Models
