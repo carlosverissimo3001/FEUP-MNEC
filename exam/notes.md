@@ -36,6 +36,8 @@
   - [Complementor Relations](#complementor-relations)
   - [Key Strategic Questions](#key-strategic-questions)
 - [Chapter 5: AI-Based Business Models](#chapter-5-ai-based-business-models)
+  - [Creating value from AI](#creating-value-from-ai)
+  - [Delivering and capturing value from AI](#delivering-and-capturing-value-from-ai)
 - [Chapter 6: Data-Driven Business Models](#chapter-6-data-driven-business-models)
 - [Chapter 7: Software as a Service and Servitization Business Models](#chapter-7-software-as-a-service-and-servitization-business-models)
 - [Chapter 8: Omnichannel Business Models](#chapter-8-omnichannel-business-models)
@@ -634,9 +636,33 @@ customer service
   <img src="images/key_strategic_questions.png" alt="Key Strategic Questions" width="9000"/>
 </p>
 
-
-
 ## Chapter 5: AI-Based Business Models
+
+### Creating value from AI
+
+- AI enablers and capability
+- Patterns and dynamics of opportunities
+- Managerial implications
+
+<p align="center">
+  <img src="images/creating_value_from_ai.png" alt="Creating value from AI" width="100%"/>
+</p>
+
+| Examples | Data and prediction | Judgment and decision making | Outcome and feedback | Expaning prediction |
+| --- | --- | --- | --- | --- |
+| Language tranlation | <li> Multiple translations of the same text <li> Propose translation of new text | <li> Light and focused review <li> Correct specific parts of translation |<li> Appropriate translation adopted <li> Feedback of corrections | <li> Learning from context and specific corrections
+| E-mail automation | <li> E-mail response exchanges <li> Propose several short responses | <li> Choose appropriate response <li> Select from list of choices | <li> Appropriate response sent <li> Feedback of choice selected |<li> Learning from choices to better describe judgment and automation
+| Medicine |<li> Annotated images of diagnostics, e.g. <li> Proposal of medical diagnostics | <li> Medical judgment <li> Effective therapy | <li> Better patient care <li> Feedback of decisions on care and clinical outcomes | <li> Learning from therapies and outcomes to better describe judgment and improve support
+
+### Delivering and capturing value from AI
+
+- **Delivery** : operations - core, organization and operating model
+- **Capture** : competition and strategy - perfomance drivers, positioning and resources - and risk governance
+
+| Business Model | Core | Resources and Capabilities | Organization and Operating Model | Performance Drivers | Positioning | Risk Governance |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Traditional** | <li> Business processes <li> Operated by workers, managers, process engineers, supervisors, customer service representatives <li> Reinforced by traditional information technology systems <li> | Different across industries <li> Specialised vertical expertise <li> Standardised, predictable and repeatable tasks by people | <li> Focus and specialization underlie scale, scope and learning economies <li> Leading to siloed structures, reinforced by information technology | <li> Scale, scope and learning economies enabled by carefully defined core capabilities, limited by diminishing returns | <li> Focus on traditional industry analysis <li> Stick with known businesses in well-understood industries | <li> Well-established risk management, regulation and government intervention on less complex challenges
+| **AI-Based** | <li> AI Factory – decision-making as a science: predictions guide and automate operation and workflows <ol> <li> Data pipeline <li> Algorithms <li> Experimentation platforms <li> Infrastructure |<li> Universal <li> Network position, unique data, sophisticated analytics <li> Dislocation of some traditional capabilities, enrichment of other, require new capabilities | <li> Integrated core of data and unified, consistent code base <li> Avoid deep organisational divisions – confront silos, retool culture | <li> Faster scaling with AI processes <li> Larger scope enabled by connections to other digitized businesses <li> Ever more learning and improvement </li> <br> Initial delay – critical mass for network effects and cold start for data – followed by steep increase in value and share |<li> Connect businesses, aggregate flowing data and extract value through analytics and AI <li> Think beyond traditional industry context – highly connected AI-enabled services to transform and unleash value | Connected and frictionless <li> Information diffusion  Reaction cascading </li><br> Related risks <li> Spread of bias & misinformation <li> Failure in large unproven institutions <li> Impact of privacy and cybersecurity incidents <li> Market concentration, dislocations, inequality </li><br> Multidisciplinary governance <li> Legal, corporate affairs <li> Deep thinking about legal and ethical challenges
 
 ## Chapter 6: Data-Driven Business Models
 
