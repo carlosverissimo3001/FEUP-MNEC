@@ -39,6 +39,12 @@
   - [Creating value from AI](#creating-value-from-ai)
   - [Delivering and capturing value from AI](#delivering-and-capturing-value-from-ai)
 - [Chapter 6: Data-Driven Business Models](#chapter-6-data-driven-business-models)
+  - [Data, the new oil](#data-the-new-oil)
+  - [Building a Data-Driven, Smart Business Model](#building-a-data-driven-smart-business-model)
+  - [Data Driven Business Models (DDBMs)](#data-driven-business-models-ddbms)
+    - [The DDBM framework - variables](#the-ddbm-framework---variables)
+    - [The DDBM framework - building blocks](#the-ddbm-framework---building-blocks)
+    - [Type of DDBMs](#type-of-ddbms)
 - [Chapter 7: Software as a Service and Servitization Business Models](#chapter-7-software-as-a-service-and-servitization-business-models)
 - [Chapter 8: Omnichannel Business Models](#chapter-8-omnichannel-business-models)
 
@@ -665,6 +671,138 @@ customer service
 | **AI-Based** | <li> AI Factory – decision-making as a science: predictions guide and automate operation and workflows <ol> <li> Data pipeline <li> Algorithms <li> Experimentation platforms <li> Infrastructure |<li> Universal <li> Network position, unique data, sophisticated analytics <li> Dislocation of some traditional capabilities, enrichment of other, require new capabilities | <li> Integrated core of data and unified, consistent code base <li> Avoid deep organisational divisions – confront silos, retool culture | <li> Faster scaling with AI processes <li> Larger scope enabled by connections to other digitized businesses <li> Ever more learning and improvement </li> <br> Initial delay – critical mass for network effects and cold start for data – followed by steep increase in value and share |<li> Connect businesses, aggregate flowing data and extract value through analytics and AI <li> Think beyond traditional industry context – highly connected AI-enabled services to transform and unleash value | Connected and frictionless <li> Information diffusion  Reaction cascading </li><br> Related risks <li> Spread of bias & misinformation <li> Failure in large unproven institutions <li> Impact of privacy and cybersecurity incidents <li> Market concentration, dislocations, inequality </li><br> Multidisciplinary governance <li> Legal, corporate affairs <li> Deep thinking about legal and ethical challenges
 
 ## Chapter 6: Data-Driven Business Models
+
+### Data, the new oil
+
+- Gartner (2012) : "Big data is **high-volume**, **high-velocity** and **high-variety** information assets that demand cost effective, innovative forms of information processing for enhanced insight and decision making"."
+- **uncertainty** of big data, namely veracity, referring to the reliability of a certain data type.
+
+- **"Data is the new oil"**:
+  - The exponential growth of data compounded by the internet, social media, cloud computing and mobile devices – or big data – has an embedded value potential that must be commercialized (Hartmann et al., 2016).
+
+### Building a Data-Driven, Smart Business Model
+
+**Smart Business**:
+
+- All players in the ecosystem are coordinated in an online network and use machine-learning technology to efficiently leverage data in real time;
+- Most operational decisions are made by machines, allowing companies to adapt dynamically and rapidly to changing market conditions and customer preferences.
+
+**Becoming a smart business**:
+
+Automate decicion making:
+
+- **Step 1 – "Datafy" every customer exchange**
+  - Making sure every interaction yields as much data as possible; engage in creative datafication to enrich the pool of data the business uses to become smarter
+  - Capture all information generated during exchanges and communications with customers and other network members as the business operates and then let the algorithms figure out what data is relevant.
+  - Ex: datifying the bike renting service in China – QR code, payments, sensors
+- **Step 2 - "Software" every activity**
+  - Ensure that all business activities are mediated by software; software the business to put workflows and essential actors online
+  - All activities are configured using software so that decisions affecting them can be automated
+  - This way, live data can be collected naturally as part of the business process, building the foundation for the application of machine-learning technologies
+  - Ex: Taobao has an instant message tool called Wangwang, through which buyers and sellers can talk to each other easily. Using the tool, the sellers greet buyers, introduce products, negotiate prices, and so on, just as people do in a traditional retail shop, but enabling data collection.
+- **Step 3 - Get data flowing**
+  - Using API’s and other interface protocols to ensure smooth interaction among software systems; institute standards and APIs to enable realtime data flow and coordination
+  - Communication standards, such as TCP/IP, and application programming interfaces (APIs) are critical in getting the data flowing among multiple players while ensuring strict control of who can access and edit data throughout the ecosystem.
+  - Ex: Taobao’s recommendation engines need to work with the inventory management systems of sellers and with the consumer-profiling systems of various social media platforms; Setting the tight incentives for companies to share data
+- **Step 4 – Apply the algorithms**
+  - Apply machine learning to make sense of data in real time and to generate “smart” business decisions
+  - The firm must create models and algorithms that make explicit the underlying product logic or market dynamics that the business is trying to optimize
+  - Ex: In Taobao, when customers log on, they see a customized webpage with a selection of products curated from the billions offered by our millions of sellers. The selection is generated automatically by Taobao’s powerful recommendation engine to optimize conversion rates
+
+### Data Driven Business Models (DDBMs)
+
+- "A business model relying on data as a key source"
+- DDBM is not limited to companies conducting analytics, but includes companies that are "merely" aggregating or collecting data.
+  - A company may sell not just data or information but also any other product or service that relies on data as a key resource.
+  - Although any company uses data in some way to conduct business, these companies use data as a key resource for their business model
+
+#### The DDBM framework - variables
+
+| Data Sources | Key Activities | Offering | Target Customer | Revenue Model |
+| --- | --- | --- | --- | --- |
+| <ul> <li> Internal <ul> <li> Existing data <li> Self-generated data <ul> <li> Crowdsourcing <li> Tracked, generated, or other </ul> </ul> <li> External <ul> <li> Acquired data <li> Customer provided <li> Free available <ul> <li> Open data <li> Social media data <li> Web-crawled data </ul> </ul> | <ul> <li> Data generation <ul> <li> Crawling <li> Tracking and crowdsourcing </ul> <li> Data acquisition <li> Processing <li> Aggregation <li> Analytics <ul> <li> Descriptive <li> Predictive <li> Prescriptive </ul> <li> Visualization <li> Distribution | <ul> <li> Data <li> Information/Knowledge <li> Non-data product and service </li> | <ul> <li> B2B <li> B2C </ul> | <ul> <li> Asset sale <li> Licensing <li> Usage fee <li> Subscription fee <li> Advertising
+
+#### The DDBM framework - building blocks
+
+1. Key resources – DDBM have data as a key resource (e.g. internal, external)
+2. Key activities - For DDBMs these activities must be related to the key resource data (e.g. data generation, acquisition, aggregation, analytics...).
+3. Value proposition – the VP is data driven, either as data or information/knowledge
+4. Customer segments – either B2C or B2B
+5. Revenue model – renting, subscription fee, usage fee...
+6. Cost structure
+
+#### Type of DDBMs
+
+<p align="center">
+  <img src="images/type_of_ddbms.png" alt="Type of DDBMs" width="80%"/>
+</p>
+
+**Type A - Free data collector and aggregator**:
+
+| | |
+| --- | --- |
+| Key data sources | a vast number of different, mostly free, data sources: e.g. Social media data, proprietary acquired data, and crowdsourced data
+| Key activities | collecting and aggregating data from a vast number of different, data sources, and then distributing it, for example, through an API. To a lesser extent, also, data crawling and visualization.
+| Value proposition | easy, reliable access to a large number of different data sources through a single API
+| Customer segments | B2B and B2C
+| Revenue model | a mixture advertising, brokerage fees, subscription, and usage fees.
+| Example | <li> AVUXI <https://www.avuxi.com/topplace> <li> Gnip <https://en.wikipedia.org/wiki/Gnip>
+
+**Type B - Analytics as a service**:
+
+| | |
+| --- | --- |
+| Key data sources | data from the company’ customers and external datasets
+| Key activities | companies conduct analytics on data provided by their customers and provide access to the analytics results via an API: Collecting customer data; Distributing data through API development; Visualization of the analytics results
+| Value proposition | information/knowledge, insights generated by data analytics with customer data: Improving marketing activities, improving customer service and relationships, increase in sales
+| Customer segments | B2B
+| Revenue model | predominantly based on subscription or usage fees.
+| Example | <li> <https://shield.com> (Sift Science)
+
+**Type C - Data generation and analysis**:
+
+| | |
+| --- | --- |
+| Key data sources | data generated by the company: Self-generated Data - Tracked, generated and other
+| Key activities | generating data rather than relying on existing data, and performing analytics on the data: Data generation - Tracking and crowdsourcing, Analysis, Aggregation |
+| Value proposition | a combination of data and analytics, such as web analytics services; leads….
+| Customer segments | B2B, B2C
+| Revenue model | usage fee-based models, asset sales (devices)
+| Example | <li> <https://www.gosquared.com>
+
+**Type D - Free data knowledge and discovery**:
+
+| | |
+| --- | --- |
+| Key data sources | free available data sources: Stack Overflow; Q&A websites; Review sites; Booking websites; Social media (Twitter, Facebook); Stock markets
+| Key activities | performing analytics on free available data (and crawl data from
+the web)
+| Value proposition | Aggregate large amounts of data and identify or predict trends, viral contents and key influencers for any topic in real-time
+| Customer segments | B2B, B2C
+| Revenue model | subscription, usage-fee-based models, advertising and brokerage fees;
+| Example | <li> <https://trendspottr.com>
+
+**Type E - Data aggregation as a service**:
+
+| | |
+| --- | --- |
+| Key data sources |data from the company’s customers
+| Key activities |aggregating data from multiple internal sources for their customers; provide data through various interfaces and visualize it
+| Value proposition | aggregated data from multiple customer sources; organize and distribute data, which simplify customers life
+| Customer segments | B2B (who possess data that needs organising)
+|Revenue model |predominantly based on subscription or usage fees.
+| Example | <https://www.getalma.com>
+
+**Type F - Multi-source data mashup and analysis**:
+
+| | |
+| --- | --- |
+|Key data sources | A combination of free data (from web scrapping) and customer provided
+| Key activities | aggregating data provided by their customers with other external, mostly free, available data; Sourcing and performing analytics on this data: Data aggregation + data analytics + data generation (Web Scrapping)
+| Value proposition | using other external data sources to enrich or benchmark customer data analytics
+| Customer segments | mostly B2B
+| Revenue model | mostly Subscription based
+| Example | <https://www.ampplaybook.com>
 
 ## Chapter 7: Software as a Service and Servitization Business Models
 
