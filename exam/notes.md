@@ -608,11 +608,33 @@ customer service
 
 ### Enablers
 
+| Enablers | Capabilities | Economic Possibilities | Apple iOS & App Store |
+| --- | --- | --- | --- |
+| Digital Connection | <li> Connect a broad set of firms to deliver solutions to a broad set of customers | Variety attracts variety: <li> Customers value variety and ability to choose <li> Firms want to offer solutions for broad sets of needs (rather than focusing on one segment at a time) <li> Focal firms need to find complementors to offer services where the focal firm is not active | <li> Hardware and software where a set of apps can be downloaded, executed and interact <li> Notes, organisers, planners, editors, publishers, workflow, teamwork… <-> self-employed to corporate staff, students to faculty, junior to senior staff… <li> Apple cannot do it all alone, e.g., communication with Skype and WhatsApp came early <li> App developers can do the same, e.g., with complements to share, store, access and process different kinds of information goods
+| Modularity | <li> Create interdependent sets of offerings that can add value to the final customer | <li> An ecosystem orchestrator curates and manages a limited menu: <ul> <li> defines the architectural arrangement where interchangeable and independently operating modules come together <li> decides on rules of engagement and complementors to define the boundaries of the basket from which final customers choose <li> ensures that interdependencies are dealt with, and common objectives are met </ul> <li> Final customers have some choice in picking from a limited menu | <li> Embedded in iOS SDK; review safety, performance, business, design, legal guidelines; advance standards for specific areas, e.g., medical, home, car <li> Choice driven according to the different customers segments, e.g.: business, education, entertainment, kids, shopping, travel; medical, home, car sub-segments
+
 ### How to Organise Economic Activity
+
+| Examples | Arrangement | Dynamics | Trade-offs |
+| --- | --- | --- | --- |
+| DARPA's battlefield mobile solutions | Market-based, arms-length procurement | <li> Final customers chooses and combines products, services and complements | <li> High flexibility/variety <li> High cost, slow (additional affort at integration) | <li> Higher individual performance possibly at the expense of lower joint performance |
+| Apple iOS & App Store | Ecosystem-based structure | <li> Final customer chooses from a curated set of ecosystem core components and complements <li> Orchestrator gives critical components; sets the terms of engagement; decides who can complement; does not fully own them <li> Organizations come together by co-specializing with each other, creating bonds that engender collaboration, without excluding competition | <li> Retain flexibility | Improve cost, speed | Improve trade-off between joint and individual performance |
+| Apple iOS pre-App Store | Purchase via integrated firm or supply chain | <li> Final customer buys package <li> System integrator or main supplier selects, pays and integrates complements or components | <li> Lower flexibility/variety <li> Inexpensive, fast (no additional effort at integration) | <li> Higher joint performance possibly at the expense of lower individual performance |
 
 ### Complementor Relations
 
+| Categories | Sources of strength | Downsides | Assumptions | Apple iOS & App Store |
+| --- | --- | --- | --- | --- |
+| **Hard-power** – inducements or coercion to get what you want | <li> Typically based on traditional sources of strength, such as market share, brand equity, control of distribution channels, or cash. <li> Reduce your dependence on complementors by producing some or all strategically significant complements in-house. | <li> Resource requirements <li> Discouragement of deep cooperation <li> Inspire backlash | <li> Extensive resources <li> Narrower range of complements (affordable cost) <li> Lower risk from specialization | <li> Strict guidelines; thorough review and blocking <li> Aggressive cut on payments <li> Epic Games lawsuit: Apple mostly won; may have lost on payment steering; halved the cut for small developers
+| **Soft-power** | <li> Use intangible resources to build legitimacy and trust <li> Provide complementors with market intelligence or information about future product plans to foster cooperation. <li> Support institutions that serve an industry or professional community. <li> Enter strategic commitments to further a common goal, such as establishing a new standard or jointly developing a new technology. | <li> Slower, more diffuse, and more cumbersome to wield <li> Precise effects can be difficult to trace | <li> Weaker resource requirements <li> Broader range of complements <li> High risk from specialization | <li> Apple Events align shortterm vision and hint at longer-term vision <li> Within its secrecy obsession, Apple shares private details with closer complementors <li> Part of +30 trade associations <li> Apple is hardly devoted to free and open standards; however, it uses them strategically, e.g., OpenCL (leverage a mix of types of processors), WebKit (a standard-compliant browser engine that became a standard)
+
 ### Key Strategic Questions
+
+<p align="center">
+  <img src="images/key_strategic_questions.png" alt="Key Strategic Questions" width="9000"/>
+</p>
+
+
 
 ## Chapter 5: AI-Based Business Models
 
